@@ -21,4 +21,4 @@
 
 The data provided is lacking duration of the campaigns which could factor greatly into it's success in reaching funding goals. this could be obtained by subtracting the launhced_at column from the deadline column and calculating the day duration. With this idea in mind, to create a duration chart explaining a plays success or failure in obtaining funding could help a great deal.
 
-## In conclusion, the play Fever would probably benefit greatly by being launched in May with a low funding goal.
+### In conclusion, the play Fever would probably benefit greatly by being launched in May with a low funding goal.
