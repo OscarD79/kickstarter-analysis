@@ -19,6 +19,6 @@
 *  The least successful launches take place in December.
 ### Based on the Outcomes based on Goals one can conclude that once the the goal reaches $20,000 there is a much greater chance of failure.
 
-The data provided is lacking duration of the campaigns which could factor greatly into it's success in reaching funding goals. this could be obtained by subtracting the launhced_at column from the deadline column and calculating the day duration. With this idea in mind, to create a duration chart explaining a plays success or failure in obtaining funding could help a great deal.
+The data provided is lacking the duration of the campaigns which could factor greatly into it's success in reaching funding goals. this could be obtained by subtracting the launhced_at column from the deadline column and calculating the day duration. With this idea in mind, to create a duration chart explaining a plays success or failure in obtaining funding could help a great deal.
 
 ### In conclusion, the play Fever would probably benefit greatly by being launched in May with a low funding goal.
