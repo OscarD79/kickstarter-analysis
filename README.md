@@ -10,7 +10,8 @@
 
 ![Theater_Outcomes_vs_Launch.png](./Theater_Outcomes_vs_Launch.png)
 
-### Once I had considered the campaigns by launch date, I then created a table to review the plays by Goals. In order to compare them I used a range of goal amounts to gather the number of plays that were successful, failed and canceled within each range. After, I used the totals to calculate out the percentages and organized the percentages on a line chart. Which I used to chart the success, failure and cancellation percentages across the goal ranges.
+### Once I had considered the campaigns by launch date, I then created a table to review the plays by Goals. In order to compare them I used a range of goal amounts to gather the number of plays that were successful, failed and canceled within each range. After, I used the totals to calculate out the percentages and organized the percentages on a line chart. I used the chart to review the success, failure and cancellation percentages across the goal ranges.
+
 ![Outcomes_vs_Goals.png](./Outcomes_vs_Goals.png)
 
 ## Results
@@ -18,7 +19,7 @@
 ### Based on the Outcomes by Launch Date there are two undeniable conclusions.
 *  The most successful launches take place in May and June.
 *  The least successful launches take place in December.
-### Based on the Outcomes based on Goals one can conclude that once the goal reaches $20,000 there is a much greater chance of failure.
+### Based on the Outcomes based on Goals chart, one can conclude that once the goal reaches $20,000 there is a much greater chance of failure.
 
 The data provided is lacking the duration of the campaigns which could factor greatly into it's success in reaching funding goals. this could be obtained by subtracting the launched_at column from the deadline column and calculating the day duration. With this idea in mind, to create a duration chart explaining a plays success or failure in obtaining funding could help a great deal.
 
