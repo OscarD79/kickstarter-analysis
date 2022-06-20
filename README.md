@@ -27,4 +27,4 @@ The data provided is lacking the duration of the campaigns which could factor gr
 
 Please find attached the Excel file for verification.
 
-[Kickstarter_Challenge.xsls](./Kickstarter_Challenge.xsls)
+[Kickstarter_Challenge.xlsx](./Kickstarter_Challenge.xlsx)
