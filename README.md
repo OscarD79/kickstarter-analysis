@@ -6,8 +6,14 @@
 
 ## Analysis and Challenges:
 
-### In order to examine the different campaigns I first created a Pivot table that allowed me to count all of the theater outcomes and the months that they launched. I used that Pivot Table to create a line chart that notes which months provide the most successful launches of theater funding. 
+### In order to examine the different campaigns, I first created a Pivot table that allowed me to count all of the theater outcomes and the months that they launched. I used that Pivot Table to create a line chart that notes which months provide the most successful, failed and canceled launches of theater funding. The main challenge I see with the data in this set is that there are overall many more launches that occur in May than in December (more than double, in fact). This could make the data misleading and the data may benefit from a percentage-based analysis done over the months.
 ![Theater_Outcomes_vs_Launch.png](./Theater_Outcomes_vs_Launch.png)
 
-### Once I had considered the campaigns by launch date, I then created a table to review the plays by Goals. In order to compare them I used a range of goal amounts to gather the number of plays that were successful, failed and canceled within each range. Then I used the totals to calculate out the percentages and organized the percentages on a line chart. Then I charted these percentages to compare them across the ranges.
+### Once I had considered the campaigns by launch date, I then created a table to review the plays by Goals. In order to compare them I used a range of goal amounts to gather the number of plays that were successful, failed and canceled within each range. After, I used the totals to calculate out the percentages and organized the percentages on a line chart. Which I used to chart the success, failure and cancellation percentages across the goal ranges.
 ![Outcomes_vs_Goals.png](./Outcomes_vs_Goals.png)
+
+## Results
+
+### Based on the Outcomes by Launch Date there are two undeniable conclusions.
+*  The most successful launches take place in May and June.
+*  The least successful launches take place in December.
