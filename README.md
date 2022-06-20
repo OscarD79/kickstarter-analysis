@@ -18,3 +18,5 @@
 *  The most successful launches take place in May and June.
 *  The least successful launches take place in December.
 ### Based on the Outcomes based on Goals one can conclude that once the the goal reaches $20,000 there is a much greater chance of failure.
+
+The data 
