@@ -2,7 +2,7 @@
 
 ## Overview of Project: 
 
-### Create an Analysis to examine how different campaigns progressed vis-a-vis their launch dates and funding goals in order to evaluate the affectiveness of similar campaigns going forward. 
+### Create an Analysis to examine how different campaigns progressed vis-a-vis their launch dates and funding goals in order to evaluate the effectiveness of similar campaigns going forward. 
 
 ## Analysis and Challenges:
 
@@ -17,8 +17,8 @@
 ### Based on the Outcomes by Launch Date there are two undeniable conclusions.
 *  The most successful launches take place in May and June.
 *  The least successful launches take place in December.
-### Based on the Outcomes based on Goals one can conclude that once the the goal reaches $20,000 there is a much greater chance of failure.
+### Based on the Outcomes based on Goals one can conclude that once the goal reaches $20,000 there is a much greater chance of failure.
 
-The data provided is lacking the duration of the campaigns which could factor greatly into it's success in reaching funding goals. this could be obtained by subtracting the launhced_at column from the deadline column and calculating the day duration. With this idea in mind, to create a duration chart explaining a plays success or failure in obtaining funding could help a great deal.
+The data provided is lacking the duration of the campaigns which could factor greatly into it's success in reaching funding goals. this could be obtained by subtracting the launched_at column from the deadline column and calculating the day duration. With this idea in mind, to create a duration chart explaining a plays success or failure in obtaining funding could help a great deal.
 
 ### In conclusion, the play Fever would probably benefit greatly by being launched in May with a low funding goal.
