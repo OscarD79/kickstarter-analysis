@@ -2,7 +2,7 @@
 
 ## Overview of Project: 
 
-### Create an Analysis to examine how different campaigns progressed vis a vis their launch dates and funding goals.
+### Create an Analysis to examine how different campaigns progressed vis-a-vis their launch dates and funding goals.
 
 ## Analysis and Challenges:
 
@@ -17,3 +17,4 @@
 ### Based on the Outcomes by Launch Date there are two undeniable conclusions.
 *  The most successful launches take place in May and June.
 *  The least successful launches take place in December.
+### Based on the Outcomes based on Goals one can conclude that once the the goal reaches $20,000 there is a much greater chance of failure.
